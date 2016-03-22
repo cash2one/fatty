@@ -35,6 +35,7 @@ def find_houdini(dir_path):
 						find_flag = True
 						with open(os.getcwd() + os.path.sep + 'result_' + t + '.txt', 'ab+') as fs:
 							fs.write('\tline number: ' + str(i) + '\r\n')
+              fs.write('\tline_content:'+str(line_content) + '\r\n')
 	print 'Finished!\n'
 	if os.path.exists(os.getcwd() + os.path.sep + 'result_' + t + '.txt'):
 		print 'Result at ' + os.getcwd() + os.path.sep + 'result_' + t + '.txt'
@@ -44,4 +45,4 @@ def find_houdini(dir_path):
 
 if __name__ == '__main__':
 	dir_path = raw_input("Please input dir path:")
-	find_houdini(dir_path)
+	find_houdini(dir_path)  
