@@ -1,18 +1,14 @@
 import os
 def traversal(path):
+	file_path=0
     dir=os.listdir(path)
-    print(dir)
-    for each in dir:
-      if each is None:
-        print("Have nothing!")
-      elif each == "dog.txt":
-          file_path = path + os.path.sep + each + os.path.sep + "dog.txt"
-          print("dog.txt"+"at"+ file_path)
-      elif each is None:
-        break
-      else:
-        traversal(each)
-A_path="c:"
-traversal(A_path)
-    
-
+    if dir is None:
+    	exit(1)
+    else:
+    	for each in dir:
+    		if each == "dog.txt":
+    			file_path = path + os.path.sep + each + os.path.sep + "dog.txt"
+                print("find dog.txt at "+ file_path)
+            else:
+            	traversal(each)
+traversal(raw_input("Please input dir path:"))
