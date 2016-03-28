@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type='text/xsl'  href='result.xsl'?>
+<test-report>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  <test-suite>
+    <test-device>
+      <deviceinfo buildVersion="6.0.1" build_abi2="N/A" build_board="st70408_4_coho" build_brand="trekstor" build_device="st70408_4_coho" build_fingerprint="trekstor/surftab/st70408_4_coho" build_manufacturer="Intel" build_type="userdebug" deviceID="179AF7A0" ipaddress="N/A" resolution="N/A" storage_devices="N/A"/>
+      <camerainfo focus="1280" maxfps="120" name="psedu" parameters="redhookbay High Speed High Speed" preset="High Speed"/>
+    </test-device>
+    <test-host name=" ">
+      <os arch=" " name="SHWDEOPENLAB143" ram="16298" version="Windows 8.1 Enterprise"/>
+      <java/>
+      <davinci/>
+    </test-host>
+    <test-summary failed="7" notExecuted="0" pass="17" timeout="1">
+      <null/>
+    </test-summary>
+    
+    <test-path type="RNR"/>
+    
+    
+    
+    
+    
+    <test-result message="C:\cloud_workspace\20160107-150927-581000\TestRun_2068\_Logs\20160107T152409" type="RNR">
+      
+      
+      
+      
+      <case activity="com.sinovatech.unicom.ui.WelcomeClient" apk="\\ccr\ec\proj\ssg\dpd\BiTS\DaVinci_Cloud\apps\80/06/8006d347b6d4dd8b3540b4b4ab8992be.apk" logcat="./apk_logcat_com.sinovatech.unicom.ui.txt" message="Install Failed" name="?????" package="com.sinovatech.unicom.ui" totalreasult="FAIL" type="Smoke">
+        <subcase endtime="N/A" name="Install" result="FAIL" starttime="N/A">
+          <details detailmessage="./apk_install_com.sinovatech.unicom.ui.txt" message="FAIL"/>
+        </subcase>
+        <subcase endtime="N/A" name="Launch" result="SKIP" starttime="N/A">
+          <details detailmessage="./apk_launch_com.sinovatech.unicom.ui.png" message="SKIP"/>
+        </subcase>
+        <subcase endtime="N/A" name="Random" result="SKIP" starttime="N/A">
+          <details detailmessage="./apk_random_com.sinovatech.unicom.ui.png" message="SKIP"/>
+        </subcase>
+        <subcase endtime="N/A" name="Back" result="SKIP" starttime="N/A">
+          <details detailmessage="./apk_back_com.sinovatech.unicom.ui.png" message="SKIP"/>
+        </subcase>
+        <subcase endtime="N/A" name="Uninstall" result="SKIP" starttime="N/A">
+          <details detailmessage="./apk_uninstall_com.sinovatech.unicom.ui.txt" message="SKIP"/>
+        </subcase>
+      </case>
+      <common name="com.sinovatech.unicom.ui.qs" totalreasult="FAIL" type="RnR">
+        <item endtime="endtime" message="There are some script runtime failures." name="RunTime" result="FAIL" starttime="starttime">
+          <commoninfo name="name" timestamp="timestamp" url=""/>
+        </item>
+      </common>
+    </test-result>
+  </test-suite>
+
+</test-report>

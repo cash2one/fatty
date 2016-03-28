@@ -1,0 +1,3 @@
+	pkg: /data/local/tmp/8006d347b6d4dd8b3540b4b4ab8992be.apk
+Failure [INSTALL_FAILED_VERIFICATION_FAILURE]
+6784 KB/s (9797567 bytes in 1.410s)

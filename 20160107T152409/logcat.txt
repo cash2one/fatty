@@ -1,0 +1,24 @@
+--------- beginning of main
+01-07 01:24:35.167 I/AndroidRuntime(24665): VM exiting with result code 0.
+01-07 01:24:35.830 D/AndroidRuntime(24677): >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+01-07 01:24:35.836 D/AndroidRuntime(24677): CheckJNI is OFF
+01-07 01:24:35.863 E/wifail  ( 4322): Request to supplicant failed: Transport endpoint is not connected
+01-07 01:24:35.863 D/wifail  ( 4322): Failed to poll signal, maybe the BSS is not in range
+01-07 01:24:35.864 E/tm_logprobe( 3295): Unable to create record: No data available
+01-07 01:24:35.899 D/ICU     (24677): No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+01-07 01:24:35.915 W/art     (24677): Could not create mount namespace.
+01-07 01:24:35.915 W/        (24677): Failed to bind-mount /system/lib/x86/cpuinfo as /proc/cpuinfo: Permission denied
+01-07 01:24:35.914 W/main    (24677): type=1400 audit(0.0:9977): avc: denied { mounton } for path="/proc/cpuinfo" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_cpuinfo:s0 tclass=file permissive=0
+01-07 01:24:35.915 W/        (24677): Cannot create code cache directory ./code_cache: Read-only file system.
+01-07 01:24:35.956 I/HAL client(24677): HAL_IPC_MAP failed: No such file or directory
+01-07 01:24:35.956 E/HAL     (24677): Could not find a HAL module for memtrack
+01-07 01:24:35.956 E/tm_logprobe( 3295): Unable to create record: No data available
+01-07 01:24:35.961 I/Radio-JNI(24677): register_android_hardware_Radio DONE
+01-07 01:24:36.003 D/AndroidRuntime(24677): Calling main entry com.android.commands.am.Am
+--------- beginning of system
+01-07 01:24:36.007 I/ActivityManager(18596): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.sinovatech.unicom.ui/.WelcomeClient} from uid 2000 on display 0
+01-07 01:24:36.008 D/AndroidRuntime(24677): Shutting down VM
+01-07 01:24:37.618 D/WifiStateMachine(18596): starting scan for "shz13f-dpdol-ap03-sg"WPA_PSK with 2462
+01-07 01:24:37.863 E/wifail  ( 4322): Request to supplicant failed: Transport endpoint is not connected
+01-07 01:24:37.863 D/wifail  ( 4322): Failed to poll signal, maybe the BSS is not in range
+01-07 01:24:37.864 E/tm_logprobe( 3295): Unable to create record: No data available

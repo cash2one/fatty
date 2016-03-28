@@ -1,0 +1,100 @@
+[2016-Jan-07 15:23:56.610101][info] DiagnosticReportStart
+[2016-Jan-07 15:23:56.612049][info] ------------------------------------------------------------------
+[2016-Jan-07 15:23:56.612049][info] Host System Information:
+[2016-Jan-07 15:23:56.612049][info] Host Name     : SHWDEOPENLAB143
+[2016-Jan-07 15:23:56.612049][info] OS Version    : 6.2
+[2016-Jan-07 15:23:56.612049][info] OS Edition    : Windows 8.1 Enterprise
+[2016-Jan-07 15:23:56.612049][info] CPU Info      : Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+[2016-Jan-07 15:23:56.612049][info] CPU Frequence : 3600 MHZ
+[2016-Jan-07 15:23:56.612049][info] CPU Usage     : 0%
+[2016-Jan-07 15:23:56.612049][info] Disk Total    : 1907726 MB
+[2016-Jan-07 15:23:56.612049][info] Disk Free     : 851265 MB
+[2016-Jan-07 15:23:56.613050][info] Memory Total  : 16298 MB
+[2016-Jan-07 15:23:56.613050][info] Memory Free   : 12538 MB
+[2016-Jan-07 15:23:56.613050][info] Resolution    : (1364 X 768)
+[2016-Jan-07 15:23:56.613050][info] ------------------------------------------------------------------
+[2016-Jan-07 15:23:56.613050][info] DiagnosticReportEnd
+[2016-Jan-07 15:23:56.670130][info] Playing a QS script: 
+[2016-Jan-07 15:23:56.670130][info] C:\cloud_workspace\20160107-150927-581000\TestRun_2068\com.sinovatech.unicom.ui.qs
+[2016-Jan-07 15:23:56.670130][info] Set timeout for test: 900
+[2016-Jan-07 15:23:56.806477][info] ----------------- Scan HWAccessories Time Report Start -----------------
+[2016-Jan-07 15:23:56.806477][info] Start to detect serial ports by WMI...
+[2016-Jan-07 15:23:56.816954][info] 0 serial ports are detected by WMI...
+[2016-Jan-07 15:23:56.816954][info] Start to detect serial ports by Registry...
+[2016-Jan-07 15:23:56.816954][info] 0 serial ports are detected by Registry...
+[2016-Jan-07 15:23:56.816954][info] Finish detecting serial ports.
+[2016-Jan-07 15:23:56.816954][info] ----------------- Scan HWAccessories Time Report End -----------------
+[2016-Jan-07 15:23:59.140850][info] Connecting to QAgent ...
+[2016-Jan-07 15:24:01.666010][info] QAgent Connected.
+[2016-Jan-07 15:24:01.666010][info] Connecting to MAgent ...
+[2016-Jan-07 15:24:01.666010][info] MAgent Connected.
+[2016-Jan-07 15:24:08.820613][info] DiagnosticReportStart
+[2016-Jan-07 15:24:08.820613][info] ------------------------------------------------------------------
+[2016-Jan-07 15:24:08.820613][info] Device System Information:
+[2016-Jan-07 15:24:08.981848][info] Device Name   : 179AF7A0
+[2016-Jan-07 15:24:08.981848][info] Manufactory   : Intel
+[2016-Jan-07 15:24:08.981848][info] Model         : st70408_4
+[2016-Jan-07 15:24:08.981848][info] OS Version    : 6
+[2016-Jan-07 15:24:08.981848][info] OS Edition    : MMR100820
+[2016-Jan-07 15:24:08.981848][info] CPU Info      : Intel(R) Atom(TM) CPU  Z3735G @ 1.33GHz
+[2016-Jan-07 15:24:08.981848][info] CPU Frequence : 855 MHZ
+[2016-Jan-07 15:24:08.981848][info] CPU Usage     : 2%
+[2016-Jan-07 15:24:08.981848][info] Disk Total    : 5320 MB
+[2016-Jan-07 15:24:08.981848][info] Disk Free     : 2356 MB
+[2016-Jan-07 15:24:08.981848][info] Memory Total  : 887 MB
+[2016-Jan-07 15:24:08.981848][info] Memory Free   : 369 MB
+[2016-Jan-07 15:24:08.981848][info] Battery Level : 56%
+[2016-Jan-07 15:24:08.981848][info] Resolution    : (800 X 1280)
+[2016-Jan-07 15:24:08.981848][info] ------------------------------------------------------------------
+[2016-Jan-07 15:24:08.981848][info] DiagnosticReportEnd
+[2016-Jan-07 15:24:09.194918][info] Playing a Q script loaded from C:\cloud_workspace\20160107-150927-581000\TestRun_2068\com.sinovatech.unicom.ui.qs
+[2016-Jan-07 15:24:09.194918][info] Loading Q script file: C:\cloud_workspace\20160107-150927-581000\TestRun_2068\com.sinovatech.unicom.ui.qs
+[2016-Jan-07 15:24:10.458695][info]   Loaded 8 configuration items, 11 events and actions successfully.
+[2016-Jan-07 15:24:10.458695][warning] Q timestamp file not found: C:\cloud_workspace\20160107-150927-581000\TestRun_2068\com.sinovatech.unicom.ui.qts
+[2016-Jan-07 15:24:10.458695][warning] Cannot parse timestamp file
+
+[2016-Jan-07 15:24:10.459697][info]       CameraType = PseudoCam
+[2016-Jan-07 15:24:10.459697][info]       CameraPresetting = -1
+[2016-Jan-07 15:24:10.459697][info]       QS CameraType = 
+[2016-Jan-07 15:24:10.459697][info]       Video Recording = true
+[2016-Jan-07 15:24:10.459697][info]       MultiLayer Mode = False
+[2016-Jan-07 15:24:10.459697][info]       QS Presetting = HIGH_RES
+[2016-Jan-07 15:24:10.459697][info]       QS StartOrientation = 
+[2016-Jan-07 15:24:10.459697][info]       Events & Actions #  = 11
+[2016-Jan-07 15:24:10.459697][info]       Offline Image Match = false
+[2016-Jan-07 15:24:13.260002][info] The device's Manufactory: Intel, Language: en, OSVerison: 6.0
+[2016-Jan-07 15:24:13.271017][info]       Executing Q instruction <Label: 1, OPCODE=OPCODE_CRASH_OFF> at timestamp: 3.654, late: 3.654
+[2016-Jan-07 15:24:13.271017][info]       Executing Q instruction <Label: 2, OPCODE=OPCODE_HOME> at timestamp: 4.134, late: 3.737
+[2016-Jan-07 15:24:17.716469][info]       Executing Q instruction <Label: 4, OPCODE=OPCODE_INSTALL_APP> at timestamp: 4447.5, late: 4447.1
+[2016-Jan-07 15:24:17.716469][info] Start install application: \\ccr\ec\proj\ssg\dpd\BiTS\DaVinci_Cloud\apps\80/06/8006d347b6d4dd8b3540b4b4ab8992be.apk ... 
+[2016-Jan-07 15:24:31.125564][info] ----------------- Installation Report Start -----------------
+[2016-Jan-07 15:24:31.125564][info] Destination: Internal Memory.
+[2016-Jan-07 15:24:31.125564][info] Install Package Time: 12808 ms
+[2016-Jan-07 15:24:31.125564][info] Logs: 	pkg: /data/local/tmp/8006d347b6d4dd8b3540b4b4ab8992be.apk
+Failure [INSTALL_FAILED_VERIFICATION_FAILURE]
+6784 KB/s (9797567 bytes in 1.410s)
+
+[2016-Jan-07 15:24:31.125564][info] ----------------- Installation Report End -----------------
+[2016-Jan-07 15:24:35.052831][info]       Executing Q instruction <Label: 6, OPCODE=OPCODE_START_APP> at timestamp: 17851.8, late: 4447.19
+[2016-Jan-07 15:24:35.137415][info] Launch app...
+[2016-Jan-07 15:24:36.110985][error] The script exited unexpectedly at IP: 5
+[2016-Jan-07 15:24:36.110985][info] Completed executing 4 out of 11 QS instructions.
+[2016-Jan-07 15:24:37.961128][info]       Comparing Q script video: matched!!!
+[2016-Jan-07 15:24:37.961128][info]       Checking flicks in replayed video......
+[2016-Jan-07 15:24:37.961128][info]       Checking object in replayed video......
+[2016-Jan-07 15:24:37.962151][info]       Object matches!!!
+[2016-Jan-07 15:24:37.962151][warning]       Audio track not found: C:\cloud_workspace\20160107-150927-581000\TestRun_2068\com.sinovatech.unicom.ui.wav
+[2016-Jan-07 15:24:37.962151][info] Final Result: !!!FAIL!!!
+[2016-Jan-07 15:24:37.962151][info]      Video Mismatches = 0
+[2016-Jan-07 15:24:37.962151][info]      Video Flicks = 0
+[2016-Jan-07 15:24:37.962151][info]      Preview Mismatches = 0
+[2016-Jan-07 15:24:37.962151][info]      Runtime Errors = 2
+[2016-Jan-07 15:24:37.962151][info]      Audio Mismatches = 0
+[2016-Jan-07 15:24:37.962151][info]      Crashes = 0
+[2016-Jan-07 15:24:37.962151][info]      ANR = 0
+[2016-Jan-07 15:24:37.962151][info]      Running = True
+[2016-Jan-07 15:24:37.962151][info]      QAgent Connection = True
+[2016-Jan-07 15:24:37.962151][info]      Report Address: 
+[2016-Jan-07 15:24:37.962151][info] file://C:\cloud_workspace\20160107-150927-581000\TestRun_2068\_Logs\20160107T152409/ReportSummary.xml
+[2016-Jan-07 15:24:37.974138][info] No Crash Dialog is found !
+
