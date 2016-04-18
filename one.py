@@ -1,6 +1,5 @@
 import os
 def traversal(path):
-	file_path=0
     dir=os.listdir(path)
     if dir is None:
     	exit(1)
