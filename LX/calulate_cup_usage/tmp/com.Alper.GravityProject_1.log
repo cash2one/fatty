@@ -1,0 +1,240 @@
+
+
+
+User 48%, System 9%, IOW 0%, IRQ 1%
+User 278 + Nice 0 + Sys 53 + Idle 225 + IOW 2 + IRQ 8 + SIRQ 2 = 568
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  50% S    51 1094128K 150336K  fg u0_a149  com.Alper.GravityProject
+  569  0   4% S    72 645020K  78864K  fg system   system_server
+  184  1   4% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+ 2479  0   1% R     1   2220K   1116K     root     top
+
+
+
+User 35%, System 15%, IOW 0%, IRQ 2%
+User 207 + Nice 0 + Sys 89 + Idle 264 + IOW 2 + IRQ 12 + SIRQ 2 = 576
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  33% S    50 1093108K 150532K  fg u0_a149  com.Alper.GravityProject
+  184  1   7% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  0   5% S    72 645020K  78864K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  1   1% S     1      0K      0K     root     kdfrgx
+
+
+
+User 30%, System 17%, IOW 0%, IRQ 2%
+User 162 + Nice 0 + Sys 97 + Idle 264 + IOW 2 + IRQ 12 + SIRQ 2 = 539
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  34% S    50 1093628K 150732K  fg u0_a149  com.Alper.GravityProject
+  184  1   8% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  1   5% S    72 645020K  78864K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+   83  1   1% S     1      0K      0K     root     kworker/u4:1
+
+
+
+User 71%, System 6%, IOW 1%, IRQ 0%
+User 420 + Nice 0 + Sys 39 + Idle 121 + IOW 6 + IRQ 4 + SIRQ 1 = 591
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  72% S    51 1116624K 173000K  fg u0_a149  com.Alper.GravityProject
+  569  0   3% S    72 645020K  78868K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  189  1   0% S     1   1980K   1028K     system   /system/bin/sensorhubd
+ 2479  0   0% R     1   2224K   1124K     root     top
+
+
+
+User 48%, System 11%, IOW 0%, IRQ 2%
+User 273 + Nice 0 + Sys 63 + Idle 209 + IOW 2 + IRQ 10 + SIRQ 2 = 559
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  0  50% S    50 1113464K 172176K  fg u0_a149  com.Alper.GravityProject
+  184  1   5% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  0   4% S    72 645020K  78868K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+ 2479  0   0% R     1   2224K   1124K     root     top
+
+
+
+User 41%, System 12%, IOW 0%, IRQ 2%
+User 237 + Nice 0 + Sys 73 + Idle 241 + IOW 2 + IRQ 11 + SIRQ 3 = 567
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  0  40% S    51 1114500K 172780K  fg u0_a149  com.Alper.GravityProject
+  184  0   7% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  0   4% S    72 645020K  78868K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  0   1% S     1      0K      0K     root     kdfrgx
+
+
+
+User 40%, System 11%, IOW 0%, IRQ 2%
+User 224 + Nice 0 + Sys 65 + Idle 250 + IOW 2 + IRQ 12 + SIRQ 2 = 555
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  0  40% S    50 1114852K 173460K  fg u0_a149  com.Alper.GravityProject
+  184  0   7% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  0   5% S    72 645020K  78868K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+ 2479  1   1% R     1   2224K   1124K     root     top
+
+
+
+User 40%, System 13%, IOW 0%, IRQ 2%
+User 233 + Nice 0 + Sys 80 + Idle 246 + IOW 3 + IRQ 11 + SIRQ 2 = 575
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  40% S    51 1115984K 174156K  fg u0_a149  com.Alper.GravityProject
+  184  0   7% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  0   4% S    72 645020K  78868K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  1   1% S     1      0K      0K     root     kdfrgx
+
+
+
+User 42%, System 13%, IOW 0%, IRQ 2%
+User 247 + Nice 4 + Sys 82 + Idle 241 + IOW 2 + IRQ 11 + SIRQ 2 = 589
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  37% S    50 1114964K 174300K  fg u0_a149  com.Alper.GravityProject
+  569  0   6% S    72 645020K  78868K  fg system   system_server
+  184  1   6% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  1   1% S     1      0K      0K     root     kdfrgx
+
+
+
+User 43%, System 12%, IOW 0%, IRQ 1%
+User 243 + Nice 0 + Sys 68 + Idle 241 + IOW 1 + IRQ 9 + SIRQ 2 = 564
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  44% S    51 1116396K 175120K  fg u0_a149  com.Alper.GravityProject
+  184  1   6% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  1   4% S    72 645020K  78872K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  1   0% S     1      0K      0K     root     kdfrgx
+
+
+
+User 41%, System 13%, IOW 0%, IRQ 2%
+User 231 + Nice 0 + Sys 73 + Idle 236 + IOW 2 + IRQ 11 + SIRQ 2 = 555
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  44% S    50 1115768K 175812K  fg u0_a149  com.Alper.GravityProject
+  184  1   6% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  1   4% S    72 645020K  78872K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  1   1% S     1      0K      0K     root     kdfrgx
+
+
+
+User 38%, System 14%, IOW 0%, IRQ 2%
+User 215 + Nice 0 + Sys 78 + Idle 246 + IOW 2 + IRQ 11 + SIRQ 2 = 554
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  0  41% S    50 1115764K 175964K  fg u0_a149  com.Alper.GravityProject
+  184  0   7% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  0   4% S    72 645020K  78872K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  0   1% S     1      0K      0K     root     kdfrgx
+
+
+
+User 44%, System 10%, IOW 0%, IRQ 1%
+User 254 + Nice 0 + Sys 63 + Idle 244 + IOW 4 + IRQ 8 + SIRQ 2 = 575
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  0  44% S    53 1091040K 149260K  fg u0_a149  com.Alper.GravityProject
+  184  0   4% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  1   4% S    72 645020K  78872K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  0   0% S     1      0K      0K     root     kdfrgx
+
+
+
+User 25%, System 14%, IOW 0%, IRQ 2%
+User 138 + Nice 0 + Sys 81 + Idle 312 + IOW 3 + IRQ 12 + SIRQ 2 = 548
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  0  25% S    53 1091040K 149428K  fg u0_a149  com.Alper.GravityProject
+  184  0   8% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  1   5% S    72 645020K  78872K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+   83  0   1% S     1      0K      0K     root     kworker/u4:1
+
+
+
+User 58%, System 7%, IOW 1%, IRQ 1%
+User 339 + Nice 0 + Sys 45 + Idle 176 + IOW 6 + IRQ 7 + SIRQ 2 = 575
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  59% S    54 1104176K 161684K  fg u0_a149  com.Alper.GravityProject
+  569  0   3% S    72 645020K  78872K  fg system   system_server
+  184  1   3% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+ 2479  0   0% R     1   2224K   1124K     root     top
+
+
+
+User 41%, System 11%, IOW 1%, IRQ 1%
+User 233 + Nice 0 + Sys 65 + Idle 252 + IOW 6 + IRQ 9 + SIRQ 2 = 567
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  39% S    54 1097736K 154484K  fg u0_a149  com.Alper.GravityProject
+  184  1   6% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  1   4% S    72 645020K  78872K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  1   0% S     1      0K      0K     root     kdfrgx
+
+
+
+User 44%, System 11%, IOW 0%, IRQ 2%
+User 246 + Nice 0 + Sys 62 + Idle 237 + IOW 0 + IRQ 12 + SIRQ 2 = 559
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  42% S    53 1096640K 151264K  fg u0_a149  com.Alper.GravityProject
+  184  1   6% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  0   5% S    72 645020K  78876K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  1   1% S     1      0K      0K     root     kdfrgx
+
+
+
+User 42%, System 11%, IOW 0%, IRQ 2%
+User 241 + Nice 0 + Sys 63 + Idle 244 + IOW 5 + IRQ 13 + SIRQ 2 = 568
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  1  39% S    53 1096792K 151972K  fg u0_a149  com.Alper.GravityProject
+  184  1   6% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  1   6% S    72 645020K  78876K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+ 2479  0   1% R     1   2224K   1124K     root     top
+
+
+
+User 41%, System 13%, IOW 1%, IRQ 2%
+User 243 + Nice 0 + Sys 80 + Idle 237 + IOW 9 + IRQ 11 + SIRQ 2 = 582
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  0  41% S    53 1098344K 155520K  fg u0_a149  com.Alper.GravityProject
+  184  0   5% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  1   4% S    72 645020K  78876K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  0   1% S     1      0K      0K     root     kdfrgx
+
+
+
+User 40%, System 12%, IOW 0%, IRQ 2%
+User 232 + Nice 1 + Sys 74 + Idle 256 + IOW 0 + IRQ 11 + SIRQ 3 = 577
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2418  0  37% S    53 1098404K 155132K  fg u0_a149  com.Alper.GravityProject
+  184  0   6% S    13  60748K  41704K  fg system   /system/bin/surfaceflinger
+  569  0   5% S    72 645020K  78876K  fg system   system_server
+  191  0   1% S    15 104584K  21792K  fg media    /system/bin/mediaserver
+  283  0   1% S     1      0K      0K     root     kdfrgx

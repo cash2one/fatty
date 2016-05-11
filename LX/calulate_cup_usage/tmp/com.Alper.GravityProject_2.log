@@ -1,0 +1,240 @@
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 6 + Idle 596 + IOW 5 + IRQ 2 + SIRQ 0 = 610
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2220K   1116K     root     top
+   84  1   0% S     1      0K      0K     root     mmcqd/0
+  133  0   0% S     1      0K      0K     root     dhd_dpc
+  569  0   0% S    72 645120K  79392K  fg system   system_server
+    6  0   0% S     1      0K      0K     root     kworker/u4:0
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 5 + Nice 0 + Sys 5 + Idle 594 + IOW 6 + IRQ 0 + SIRQ 0 = 610
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  569  0   0% S    72 645120K  79392K  fg system   system_server
+  206  0   0% S     1   3068K   2200K     root     /system/bin/logcat
+    4  0   0% S     1      0K      0K     root     kworker/0:0
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 1%, System 1%, IOW 1%, IRQ 0%
+User 9 + Nice 2 + Sys 11 + Idle 573 + IOW 10 + IRQ 1 + SIRQ 1 = 607
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  569  1   0% S    72 645120K  79392K  fg system   system_server
+  655  1   0% S    18 591304K  81676K  fg u0_a12   com.android.systemui
+ 2550  1   0% R     1   2224K   1124K     root     top
+  184  0   0% R    13  52216K  33172K  fg system   /system/bin/surfaceflinger
+  283  0   0% S     1      0K      0K     root     kdfrgx
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 5 + Nice 0 + Sys 3 + Idle 586 + IOW 6 + IRQ 2 + SIRQ 0 = 602
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+ 1668  1   0% S    12 559436K  39876K  bg u0_a45   com.android.deskclock
+  569  1   0% S    72 645120K  79392K  fg system   system_server
+   31  1   0% S     1      0K      0K     root     kworker/1:1
+   84  0   0% S     1      0K      0K     root     mmcqd/0
+
+
+
+User 0%, System 1%, IOW 0%, IRQ 0%
+User 2 + Nice 0 + Sys 7 + Idle 598 + IOW 0 + IRQ 0 + SIRQ 1 = 608
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  569  1   0% S    72 645120K  79392K  fg system   system_server
+ 2550  1   0% R     1   2224K   1124K     root     top
+   84  0   0% S     1      0K      0K     root     mmcqd/0
+    4  0   0% S     1      0K      0K     root     kworker/0:0
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 1%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 8 + Idle 591 + IOW 5 + IRQ 1 + SIRQ 0 = 606
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  655  1   0% S    18 591304K  81688K  fg u0_a12   com.android.systemui
+  283  1   0% S     1      0K      0K     root     kdfrgx
+ 1663  0   0% S     5   4828K    348K     root     /sbin/adbd
+  206  1   0% S     1   3068K   2200K     root     /system/bin/logcat
+
+
+
+User 0%, System 1%, IOW 0%, IRQ 0%
+User 2 + Nice 0 + Sys 7 + Idle 596 + IOW 0 + IRQ 1 + SIRQ 0 = 606
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  184  0   0% S    13  55624K  36580K  fg system   /system/bin/surfaceflinger
+  655  0   0% S    18 591304K  81700K  fg u0_a12   com.android.systemui
+   84  1   0% S     1      0K      0K     root     mmcqd/0
+  569  1   0% S    72 645120K  79396K  fg system   system_server
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 2 + Nice 0 + Sys 5 + Idle 595 + IOW 6 + IRQ 1 + SIRQ 1 = 610
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+    2  0   0% S     1      0K      0K     root     kthreadd
+    3  0   0% S     1      0K      0K     root     ksoftirqd/0
+    4  0   0% S     1      0K      0K     root     kworker/0:0
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 5 + Idle 601 + IOW 0 + IRQ 0 + SIRQ 0 = 607
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  569  1   0% S    72 645120K  79396K  fg system   system_server
+   84  1   0% S     1      0K      0K     root     mmcqd/0
+    4  0   0% S     1      0K      0K     root     kworker/0:0
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 2 + Nice 0 + Sys 5 + Idle 595 + IOW 5 + IRQ 1 + SIRQ 0 = 608
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  741  1   0% S     1   6092K   3012K     wifi     /system/bin/wpa_supplicant
+  133  0   0% S     1      0K      0K     root     dhd_dpc
+    4  0   0% S     1      0K      0K     root     kworker/0:0
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 4 + Idle 601 + IOW 0 + IRQ 1 + SIRQ 0 = 607
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  132  0   0% S     1      0K      0K     root     dhd_watchdog_th
+   84  1   0% S     1      0K      0K     root     mmcqd/0
+  569  1   0% S    72 645120K  79396K  fg system   system_server
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 5 + Idle 594 + IOW 6 + IRQ 0 + SIRQ 0 = 606
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+   84  1   0% S     1      0K      0K     root     mmcqd/0
+  206  0   0% S     1   3068K   2200K     root     /system/bin/logcat
+  569  1   0% S    72 645120K  79396K  fg system   system_server
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 6 + Idle 598 + IOW 0 + IRQ 0 + SIRQ 2 = 607
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  569  1   0% S    72 645120K  79396K  fg system   system_server
+ 1663  1   0% S     5   4828K    348K     root     /sbin/adbd
+ 2407  0   0% S     1      0K      0K     root     kworker/0:5
+    6  0   0% S     1      0K      0K     root     kworker/u4:0
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 6 + Idle 595 + IOW 5 + IRQ 2 + SIRQ 0 = 609
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+   98  0   0% S     1      0K      0K     root     kworker/0:2
+  133  0   0% S     1      0K      0K     root     dhd_dpc
+  172  0   0% S     1   1624K    248K  fg root     /sbin/healthd
+   84  0   0% S     1      0K      0K     root     mmcqd/0
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 5 + Idle 600 + IOW 0 + IRQ 0 + SIRQ 0 = 606
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  741  1   0% S     1   6092K   3012K     wifi     /system/bin/wpa_supplicant
+    3  0   0% S     1      0K      0K     root     ksoftirqd/0
+    4  0   0% S     1      0K      0K     root     kworker/0:0
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 2 + Nice 0 + Sys 3 + Idle 595 + IOW 5 + IRQ 0 + SIRQ 0 = 605
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+   84  1   0% S     1      0K      0K     root     mmcqd/0
+  206  0   0% S     1   3068K   2200K     root     /system/bin/logcat
+  569  0   0% S    72 645120K  79396K  fg system   system_server
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 1 + Nice 0 + Sys 4 + Idle 601 + IOW 0 + IRQ 1 + SIRQ 0 = 607
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  133  0   0% S     1      0K      0K     root     dhd_dpc
+    3  0   0% S     1      0K      0K     root     ksoftirqd/0
+    4  0   0% S     1      0K      0K     root     kworker/0:0
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 3 + Nice 0 + Sys 4 + Idle 591 + IOW 5 + IRQ 1 + SIRQ 0 = 604
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  655  0   0% S    18 591304K  81704K  fg u0_a12   com.android.systemui
+  283  0   0% S     1      0K      0K     root     kdfrgx
+   84  1   0% S     1      0K      0K     root     mmcqd/0
+    8  0   0% S     1      0K      0K     root     rcu_preempt
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 2 + Nice 0 + Sys 5 + Idle 600 + IOW 0 + IRQ 1 + SIRQ 0 = 608
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 2550  1   0% R     1   2224K   1124K     root     top
+  741  1   0% S     1   6092K   3012K     wifi     /system/bin/wpa_supplicant
+   84  0   0% S     1      0K      0K     root     mmcqd/0
+  181  1   0% S     3   7716K   2420K     system   /system/bin/nvm_server
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 2 + Nice 0 + Sys 4 + Idle 596 + IOW 6 + IRQ 0 + SIRQ 1 = 609
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  569  0   0% S    72 645120K  79396K  fg system   system_server
+ 2550  1   0% R     1   2224K   1124K     root     top
+ 1663  0   0% S     5   4828K    348K     root     /sbin/adbd
+  168  1   0% S     1      0K      0K     root     jbd2/mmcblk0p7-
+    5  0   0% S     1      0K      0K     root     kworker/0:0H
